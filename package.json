@@ -1,0 +1,22 @@
+{
+  "name": "event-driven",
+  "version": "1.0.0",
+  "description": "Kata for exploring event-driven asynchronicity",
+  "main": "event.js",
+  "scripts": {
+    "test": "node test_event.js"
+  },
+  "keywords": [
+    "kata",
+    "code",
+    "dojo",
+    "tdd",
+    "event"
+  ],
+  "author": "@sleepyfox",
+  "license": "CC-BY-NC-SA-4.0",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/sleepyfox/event-driven.git"
+  }
+}
