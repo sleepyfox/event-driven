@@ -31,3 +31,4 @@ The first and last steps are, by nature, async. Although the middle task is sync
 
 A naive implementation of this system will look like the starter code present in [this refactoring kata](https://github.com/sleepyfox/fcis). 
 
+The objective of _this_kata is to create a system that accomplishes the same aims by implementing the event-emmitter pattern.
